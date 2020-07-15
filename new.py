@@ -1,1 +1,1 @@
-hi man 
+print("hi man") 
