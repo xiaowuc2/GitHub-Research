@@ -18,7 +18,7 @@ Our Research Sessions will take place remotely over [video chat](https://www.you
 * Join Telegram Group [@qxresearch](https://t.me/qxresearch)
 * <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: GitHub id @qxresearch)
 
-<h4 align="center">Join | Contribute | Enjoy</h4></p>
+<h4 align="center">_</h4></p>
 
 [![GitHub](https://img.shields.io/static/v1.svg?label=Members&message=115&color=success&logo=github&style=social)](https://github.com/orgs/qxresearch/people)
 
