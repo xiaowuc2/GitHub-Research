@@ -1,7 +1,7 @@
 <p align="center">
  <img width="300px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/circle-cropped.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">You found a secret!</h2>
- <h4 align="center">Join | Contribute | Develop🔥</h4></p>
+ <h4 align="center">Join | Contribute | Develop</h4></p>
 </p>
   <p align="center">
 
