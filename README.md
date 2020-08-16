@@ -9,4 +9,4 @@
 
  
 
-That link was specail and showes your  is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
+That link was specail! Your curiosity gives you a opportunity to join QX Research ✨
