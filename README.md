@@ -6,7 +6,10 @@
   <p align="center">
 
 
-
- 
-
 #### That link was specail! Your curiosity gives you a opportunity to join QX Research ✨
+
+### Become Official Member ✨
+
+* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
+* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
+* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: GitHub id @qxresearch)
