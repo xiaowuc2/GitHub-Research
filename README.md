@@ -21,7 +21,6 @@ Our Research Sessions will take place remotely over [video chat](https://www.you
 <h4 align="center">_</h4></p>
 
 [![GitHub](https://img.shields.io/static/v1.svg?label=Members&message=115&color=success&logo=github&style=social)](https://github.com/orgs/qxresearch/people)
-
 [![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=279&color=success&logo=telegram&style=social)](https://t.me/qxresearch)
 
 <p align="center">
