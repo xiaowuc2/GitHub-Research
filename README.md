@@ -8,6 +8,9 @@
 
 #### That link was specail! Your curiosity gives you a opportunity to join QX Research ✨
 
+QX Research is a online Developer | Research club in collaboration with Mozilla Campus Club. We focus on the application of `Programming` with `AI` `ML` `Cloud Computing` `Computer Vision` `IOT` etc.
+Our Research Sessions will take place remotely over [video chat](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA), so you can be anywhere in the world.
+
 ### Become Official Member ✨
 
 * Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
