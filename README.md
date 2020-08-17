@@ -24,5 +24,5 @@ Our Research Sessions will take place remotely over [video chat](https://www.you
 [![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=279&color=success&logo=telegram&style=social)](https://t.me/qxresearch)
 
 <p align="center">
- <img width="50px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/r2.png" align="center" alt="GitHub Readme Stats" />
+ <img width="30px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/r2.png" align="center" alt="GitHub Readme Stats" />
  <h4 align="center">qxresearch</h4></p>
