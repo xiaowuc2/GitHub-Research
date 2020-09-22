@@ -4,10 +4,10 @@
     <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" alt="Logo" width="240" height="240">
   </a>
 
-  <h3 align="center">qxresearch-event-1</h3>
+  <h3 align="center">qxresearch</h3>
 
   <p align="center">
-    10 Python Application | 10 lines of code + Video Explanation 🧭
+    Code | Develop | Research 🧭
     <br />
     <br>
     <br />
