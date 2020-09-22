@@ -1,7 +1,7 @@
  <br />
 <p align="center">
   <a href="https://qxresearch.github.io/qxresearch-event-1">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" alt="Logo" width="240" height="240">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">qxresearch</h3>
