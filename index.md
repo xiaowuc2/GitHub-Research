@@ -31,6 +31,8 @@
 #qxresearch enhance the knowledge you've to create something cool 🚀
 ```
 
+  <br>
+  <br/>
 
 ### Upcomming Events 
 
@@ -38,6 +40,9 @@
 
 ### Past Events
 * Event-1 : [10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)
+
+<br>
+<br/>
 
 ### Become Official Member
 
@@ -55,6 +60,5 @@
     <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
     ·
     <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
-  </p>
 </p>
 
