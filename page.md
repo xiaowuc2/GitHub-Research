@@ -45,6 +45,16 @@ Our Research Sessions will take place remotely over video chat, so you can be an
  <img width="300px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/image.gif" align="center" alt="GitHub Readme Stats" />
   
 
-<h1 align="center">.</h1>
 
-  
+
+<p align="center">
+    <br>
+    <br/>
+    <br />
+    <a href="https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM">Watch On Demand</a>
+    ·
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
+  </p>
+</p>
