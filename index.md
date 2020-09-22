@@ -7,7 +7,7 @@
   <h3 align="center">qxresearch</h3>
 
   <p align="center">
-    Code | Develop | Research 🧭
+    Code | Develop | Research
     <br />
     <br>
     <br />
