@@ -1,50 +1,50 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/qxresearch/qxresearch-event-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qxresearch/qxresearch-event-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
+ <br />
 <p align="center">
-    <br>
-    <br/>
-    <br />
-    <a href="https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM">Watch On Demand</a>
-    ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
+  <a href="https://community.mozilla.org/en/groups/qx-research">
+    <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" alt="Logo">
+  </a>
+
+  <h3 align="center">qxresearch | Develop | Research</h3>
+
+  <p align="center">
   </p>
 </p>
+
+
+[![GitHub](https://img.shields.io/static/v1.svg?label=Members&message=115&color=success&logo=github&style=social)](https://github.com/orgs/qxresearch/people)
+[![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=279&color=success&logo=telegram&style=social)](https://t.me/qxresearch)
+[![Twitter Follow](https://img.shields.io/twitter/follow/qxresearch.svg?style=social&label=Follow)](https://twitter.com/qxresearch)
+[![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
+  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@qxresearch&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/company/68716543)
+   [![Sponsor](https://img.shields.io/static/v1.svg?label=$1&message=Donation&color=grey&logo=sponsor&style=flat&logoColor=white&colorA=green)](https://github.com/xiaowuc2/xiaowuc2/blob/master/source/sponsor.png) 
+
+```diff
+
+Online RESEARCH | DEVELOPER Club in collaboration with MOZILLA CAMPUS CLUB.
+We focus on the Application of Programming @ AI ML CLOUD COMPUTING COMPUTER VISION IOT etc.
+Our Research Sessions will take place remotely over video chat, so you can be anywhere in the world.
++ ENHANCE THE KNOWLEDGE YOU ALREADY HAVE, RESEARCH ON YOURSELF
+
+```
+
+### Upcomming Events 
+
+- **Event1:** [**10 Python Application | 10 lines of code**](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)    ``20/09/20``
+
+### Past Events
+
+- ``No Results``
+
+### Become Official Member
+
+- Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
+- Join Telegram Group [@qxresearch](https://t.me/qxresearch)
+- <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: ``GitHub id @qxresearch``)
+  
+ <p align="center">
+ <img width="300px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/image.gif" align="center" alt="GitHub Readme Stats" />
+  
+
+<h1 align="center">.</h1>
+
+  
